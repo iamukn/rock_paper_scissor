@@ -7,6 +7,6 @@ Ndukwe, Ukaegbu Kingsley
 
 How to Play
 ===========
-Simple run the game.py script using ./game.py or python3 game.py
+Simply run the game.py script using ./game.py or python3 game.py
 
 Enjoy :) :)
